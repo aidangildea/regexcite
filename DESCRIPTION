@@ -1,10 +1,12 @@
 Package: regexcite
-Title: What the Package Does (One Line, Title Case)
+Title: Creating a toy package
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+    person("Aidan", "Gildea", , "aidan.gildea@duke.edu", role = c("aut", "cre"))
+Description: This is a toy R package and allows me to test the process of 
+creating an R package. After completing this, it will be easier to create
+my own package, which makes visualizations with offical Duke colors more 
+color-blind friendly.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
